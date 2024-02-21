@@ -1,0 +1,28 @@
+/* import "simplelightbox/dist/simple-lightbox.min.css"; */
+@import "simplelightbox/dist/simple-lightbox.min.css";
+
+.gallery {
+
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 24px;
+    padding: 24px 156px 24px 156px;
+        
+    }
+    
+.gallery-image {
+        
+    width: 360px;
+    height: 200px;
+    }
+
+.sl-image {
+    width: 1112px;
+    height: 640px;
+}
+
+
+    
+    
